@@ -1,7 +1,7 @@
-package org.example
+package org.example.veiculos.service
 
-import org.example.Veiculo
-import org.example.VeiculoRepository
+import org.example.veiculos.entity.Veiculo
+import org.example.veiculos.repository.VeiculoRepository
 import org.springframework.stereotype.Service
 import java.time.LocalDateTime
 

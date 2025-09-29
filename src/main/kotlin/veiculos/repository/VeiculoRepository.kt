@@ -1,5 +1,6 @@
-package org.example
-import org.example.Veiculo
+package org.example.veiculos.repository
+
+import org.example.veiculos.entity.Veiculo
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.data.jpa.repository.Query
 import org.springframework.data.repository.query.Param

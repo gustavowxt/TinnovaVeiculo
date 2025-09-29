@@ -1,6 +1,7 @@
-package org.example
-import org.example.Veiculo
-import org.example.VeiculoRepository
+package org.example.veiculos.config
+
+import org.example.veiculos.entity.Veiculo
+import org.example.veiculos.repository.VeiculoRepository
 import org.springframework.boot.CommandLineRunner
 import org.springframework.stereotype.Component
 import java.time.LocalDateTime
